@@ -28,7 +28,7 @@ const Counter = () => {
 
   const increaseHandler = () => {
     // dispatch({ type: "increase", amount: 5 });
-    dispatch(counterActions.increase(10));
+    dispatch(counterActions.increase(10)); //We can pass object as well. Toolkit by default takes it in payload key
   };
 
   const decrementHandler = () => {
