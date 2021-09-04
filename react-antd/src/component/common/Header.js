@@ -6,9 +6,9 @@ function AppHeader() {
       <div className="header">
         <div className="logo">
             <i className="fas fa-bolt"></i>
-            <a href="#">Tech</a>
+            <a href="#blank">Tech</a>
         </div>
-        <Menu mode="horizontal" defaultSelectedKey={["2"]}>
+        <Menu mode="horizontal" defaultSelectedKey={["3"]}>
           <Menu.Item key="home">Home</Menu.Item>
           <Menu.Item key="about">About</Menu.Item>
           <Menu.Item key="features">Features</Menu.Item>
