@@ -1,0 +1,11 @@
+.center{
+  text-align: center;
+  width: 100vw;
+  line-height: 2em;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.527);
+}
+
+.container-fluid{
+  margin: 0px auto;
+  max-width: 800px;
+}
