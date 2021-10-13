@@ -1,0 +1,5 @@
+# dependencies
+    /react-antd/.gitignore
+    /react-antd/README.md
+    /react-antd/package-lock.json
+    /reduxJs/reactRedux/node_modules/
